@@ -22,7 +22,7 @@
 
 ## 安装
 
-1. 下载 [release/DSH手机版.apk](release/DSH手机版.apk)
+1. 下载 [release/DSH手机版.apk]([release/DSH手机版.apk](https://github.com/liang-2008/opaoguonai-android/releases))
 2. 安装（需允许"安装未知来源应用"）
 3. 首次启动会跳「显示在其他应用上层」授权页 —— 这是安卓硬性要求，随便哪个悬浮窗应用都要
 4. 授权后返回，再点一次图标即可
