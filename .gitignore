@@ -1,0 +1,15 @@
+# 构建产物
+build/
+*.apk
+!release/*.apk
+*.keystore
+*.jks
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 系统
+Thumbs.db
+.DS_Store
